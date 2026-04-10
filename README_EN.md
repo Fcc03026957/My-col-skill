@@ -27,9 +27,7 @@ Provide source materials (Feishu messages, DingTalk docs, Slack messages, emails
 plus your subjective description of the person<br>
 and get an **AI Skill that actually works like them**
 
-[Supported Sources](#supported-data-sources) · [Install](#install) · [Usage](#usage) · [Demo](#demo) · [Detailed Install](INSTALL.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
-
-[**中文**](README_ZH.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md)
+[Supported Sources](#supported-data-sources) · [Install](#install) · [Usage](#usage) · [Demo](#demo) · [Detailed Install](INSTALL.md) · [**中文**](README.md) · [**Español**](README_ES.md) · [**Deutsch**](README_DE.md) · [**日本語**](README_JA.md) · [**Русский**](README_RU.md) · [**Português**](README_PT.md) · [💬 Discord](https://discord.gg/aRjmJBdK)
 
 </div>
 
@@ -43,7 +41,7 @@ and get an **AI Skill that actually works like them**
 >
 > Now listed: 户晨风.skill · 峰哥亡命天涯.skill · 罗翔.skill and more
 >
-> ⏳ PRs are manually reviewed for now — may be a bit slow, thanks for your patience!/ PRs are manually reviewed for now — may be a bit slow, thanks for your patience!
+> ⏳ PRs are manually reviewed for now — may be a bit slow, thanks for your patience!
 
 ---
 
